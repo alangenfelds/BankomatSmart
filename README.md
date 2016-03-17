@@ -1,0 +1,2 @@
+# BankomatSmart
+Bankomat Greedy Algorithm
